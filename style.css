@@ -1,0 +1,115 @@
+h1{
+    color: darkgreen;
+    font-size: 50px;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+#SW{
+    width: 200px;
+    height: 140px;
+}
+
+#TGE{
+    width: 700px;
+    height: 500px;
+    object-fit: cover;
+    border: 10px solid darkblue;
+    border-radius: 70px;
+    transition: 2s;
+}
+
+#TGE:hover{
+    object-position: 5%;
+}
+
+#TGE:active{
+    object-position: 95%;
+}
+
+#Imperia{
+    width: 900px;
+    height: 500px;
+    object-fit: cover;
+    border: 10px solid darkblue;
+    border-radius: 70px;
+    transition: 2s;
+}
+
+#Imperia:hover{
+    object-position: 5%;
+}
+
+#Imperia:active{
+    object-position: 95%;
+}
+
+#h21{
+    color: darkblue;
+    font-size: 40px;
+    text-transform: uppercase;
+    text-decoration: overline;
+}
+
+#P{
+    color: blue;
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+#Inform{
+    color: darkblue;
+    font-size: 20px;
+}
+
+#h22{
+    color: darkred;
+    font-size: 40px;
+    text-transform: uppercase;
+    text-decoration: overline;
+}
+
+#P2{
+    color: red;
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+#TFO{
+    width: 900px;
+    height: 500px;
+    object-fit: cover;
+    border: 10px solid black;
+    border-radius: 70px;
+    transition: 2s;
+}
+
+#TFO:hover{
+    object-position: 5%;
+}
+
+#TFO:active{
+    object-position: 95%;
+}
+
+#Order{
+    width: 700px;
+    height: 500px;
+    object-fit: cover;
+    border: 10px solid black;
+    border-radius: 70px;
+    transition: 2s;
+}
+
+#Order:hover{
+    object-position: 5%;
+}
+
+#Order:active{
+    object-position: 95%;
+}
+
+#El{
+    color: darkred;
+    font-size: 20px;
+}
